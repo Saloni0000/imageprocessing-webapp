@@ -8,7 +8,9 @@ This project provides a beautifully animated **frontend interface** where users 
 ## 🌐 Live Demo
 
 - 🔗 Frontend: [https://saloni0000.github.io/imageprocessing-webapp/](https://saloni0000.github.io/imageprocessing-webapp/)
-- 🧠 API Endpoint (backend): [https://krrishcoder07-face-blur-app.hf.space/process](https://krrishcoder07-face-blur-app.hf.space/process)
+- 🧠 API Endpoint (backend): [https://salonik07-faceblur-backend.hf.space/process
+](https://salonik07-faceblur-backend.hf.space/process
+)
 
 ---
 
@@ -65,7 +67,8 @@ image_blur_frontend/
 const formData = new FormData();
 formData.append('file', fileInput.files[0]);
 
-const response = await fetch('https://krrishcoder07-face-blur-app.hf.space/process', {
+const response = await fetch('https://salonik07-faceblur-backend.hf.space/process
+', {
     method: 'POST',
     body: formData
 });
