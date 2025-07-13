@@ -7,7 +7,7 @@ This project provides a beautifully animated **frontend interface** where users 
 
 ## 🌐 Live Demo
 
-- 🔗 Frontend: [https://krrishcoder.github.io/image_blur_frontend/](https://krrishcoder.github.io/image_blur_frontend/)
+- 🔗 Frontend: [https://saloni0000.github.io/imageprocessing-webapp/](https://saloni0000.github.io/imageprocessing-webapp/)
 - 🧠 API Endpoint (backend): [https://krrishcoder07-face-blur-app.hf.space/process](https://krrishcoder07-face-blur-app.hf.space/process)
 
 ---
@@ -44,7 +44,7 @@ image_blur_frontend/
 ## 💡 How to Use
 
 1. Open the app in your browser:  
-   👉 [https://krrishcoder.github.io/image_blur_frontend/](https://krrishcoder.github.io/image_blur_frontend/)
+   👉 [https://saloni0000.github.io/imageprocessing-webapp/](https://saloni0000.github.io/imageprocessing-webapp/)
 
 2. Click **"Choose Image File"** and select a photo with faces
 
@@ -106,4 +106,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [@krrishcoder07](https://github.com/krrishcoder07)
+Made with ❤️ by [@Saloni0000](https://github.com/Saloni0000)
